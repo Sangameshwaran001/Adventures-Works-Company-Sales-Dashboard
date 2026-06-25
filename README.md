@@ -160,7 +160,7 @@ Breaks down total costs by retailer channel.
 
 ---
 
-![Adventure Works Sales Dashboard](dashboard.png)
+![Adventure Works Sales Dashboard](Dashboard.png)
 
 ## Technologies Used
 
