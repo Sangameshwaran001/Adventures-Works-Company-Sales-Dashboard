@@ -1,4 +1,4 @@
-# Adventure Works Company Sales Dashboard
+# Adventure-Works-Company-Sales-Dashboard
 
 ## Overview
 
